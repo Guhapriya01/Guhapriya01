@@ -1,9 +1,5 @@
-![👋 Hi, I'm Guhapriya Dharmaraj](https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/Websites-Software-Programmers-Thumbnails_1200x558.png?w=1024)
-
-![Profile views](https://komarev.com/ghpvc/?username=Guhapriya01&label=Profile%20views&color=0e75b6&style=flat)
-
 <div id="toc">
-  <ul align="left" style="list-style: none">
+  <ul align="center" style="list-style: none">
     <summary>
       <h1>
         👋 Hi, I'm Guhapriya Dharmaraj
@@ -12,12 +8,14 @@
   </ul>
 </div>
 
+![Profile views](https://komarev.com/ghpvc/?username=Guhapriya01&label=Profile%20views&color=0e75b6&style=flat)
+
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/Guhapriya01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/guhapriya-dharmaraj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">Skills</h3>**
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=c" height="32" alt="C" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="32" alt="Bootstrap" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ember/ember-original.svg" height="32" alt="Ember" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="Spring" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" height="32" alt="Ember" style="margin-right: 12px"></div>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: left;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" style="margin-right: 12px"> <img src="https://skillicons.dev/icons?i=c" height="32" alt="C" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="32" alt="JavaScript" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="32" alt="Bootstrap" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ember/ember-original.svg" height="32" alt="Ember" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="Spring" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" style="margin-right: 12px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ember/ember-original-wordmark.svg" height="32" alt="Ember" style="margin-right: 12px"></div>
 
  **<h3 align="left">GitHub Stats</h3>**
 
