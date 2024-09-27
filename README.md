@@ -1,19 +1,13 @@
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi, I'm Guhapriya Dharmaraj
-      </h1>
-    </summary>
-  </ul>
-</div>
 <p align="center">
-  <img alt="Coder GIF" height="350" width="350" src="https://github.com/user-attachments/assets/9b9df90e-b887-42ff-9f1b-d0e02d5a7f7d">
+  <img alt="Coder GIF" height="300" width="300" src="https://github.com/user-attachments/assets/9b9df90e-b887-42ff-9f1b-d0e02d5a7f7d">
 </p>
 
 <p align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Guhapriya01&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
+<h1 align="center">👋 Hi, I'm Guhapriya Dharmaraj</h1>
+<h4 align="center">Passionate about coding and continuous learning</h4>
 
 **<h3 align="left">Connect with me</h3>** 
 <p align="left"><a href="mailto:guhapriyadharmaraj08@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://github.com/Guhapriya01" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/guhapriya-dharmaraj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
@@ -28,4 +22,3 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Guhapriya01&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=Guhapriya01&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
 </p>
-
