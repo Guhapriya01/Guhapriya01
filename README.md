@@ -8,6 +8,8 @@
   </ul>
 </div>
 
+<img align="center" alt="Coder GIF" height=350 width=350 src="https://github.com/user-attachments/assets/9b9df90e-b887-42ff-9f1b-d0e02d5a7f7d">
+
 ![Profile views](https://komarev.com/ghpvc/?username=Guhapriya01&label=Profile%20views&color=0e75b6&style=flat)
 
 **<h3 align="left">Connect with me:</h3>** 
