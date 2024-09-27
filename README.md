@@ -7,10 +7,13 @@
     </summary>
   </ul>
 </div>
-
-<img align="center" alt="Coder GIF" height=350 width=350 src="https://github.com/user-attachments/assets/9b9df90e-b887-42ff-9f1b-d0e02d5a7f7d">
-
-![Profile views](https://komarev.com/ghpvc/?username=Guhapriya01&label=Profile%20views&color=0e75b6&style=flat)
+<div style="display: flex;align-items: center;flex-direction: column;">
+  
+  <img align="center" alt="Coder GIF" height=350 width=350 src="https://github.com/user-attachments/assets/9b9df90e-b887-42ff-9f1b-d0e02d5a7f7d">
+  
+  ![Profile views](https://komarev.com/ghpvc/?username=Guhapriya01&label=Profile%20views&color=0e75b6&style=flat)
+  
+</div>
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/Guhapriya01" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/guhapriya-dharmaraj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
